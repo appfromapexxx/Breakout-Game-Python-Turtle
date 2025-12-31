@@ -2,7 +2,7 @@
 
 使用 Python Turtle 製作的經典 80 年代 Breakout 打磚塊遊戲。
 
-![遊戲截圖](https://github.com/appfromapexxx/Breakout-Game-Python-Turtle/blob/master/1.png)
+![遊戲截圖](https://github.com/appfromapexxx/Breakout-Game-Python-Turtle/blob/main/1.png)
 
 ## 功能特色
 
