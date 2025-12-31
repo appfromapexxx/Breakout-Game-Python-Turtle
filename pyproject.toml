@@ -1,0 +1,15 @@
+[project]
+name = "breakout-game"
+version = "1.0.0"
+description = "使用 Python Turtle 製作的經典 Breakout 打磚塊遊戲"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "appfromape" }]
+keywords = ["game", "breakout", "turtle", "python"]
+
+[project.scripts]
+breakout = "main:main"
+
+[dependency-groups]
+dev = []
